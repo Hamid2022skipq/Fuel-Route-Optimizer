@@ -29,6 +29,11 @@ source venv/bin/activate
 ```bash
 pip install -r requirements.txt
 ```
+### Simply Run After installing the dependencies.
+```
+python manage.py runserver
+```
+Then you can easily able to run the projects and test the api.
 
 **4. Place the CSV file:**
 Ensure `fuel-prices-for-be-assessment.csv` is placed in the **root directory** (the same folder as `manage.py`).
