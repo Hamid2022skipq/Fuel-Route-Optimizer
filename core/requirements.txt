@@ -1,0 +1,7 @@
+django
+djangorestframework
+pandas
+scipy
+requests
+geopy
+polyline
